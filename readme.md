@@ -48,7 +48,7 @@ Built with **Vue.js**, **FastAPI**, and **SQLite**, it combines real-time UI, gr
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/Paris-Metro-Route-Planner.git
+git clone https://github.com/chealeanpenhchakrith/MetroGo.git
 cd Paris-Metro-Route-Planner
 cd Back-End
 uvicorn main:app --reload
