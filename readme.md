@@ -1,6 +1,6 @@
-# 🚇 Paris Metro Route Planner
+# 🚇 MetroGo
 
-**Paris Metro Route Planner** is a modern, interactive web application that helps users compute optimal routes across the Paris metro network.
+**MetroGo** is a modern, interactive web application that helps users compute optimal routes across the Paris metro network.
 
 Built with **Vue.js**, **FastAPI**, and **SQLite**, it combines real-time UI, graph algorithms, and real-world metro data to simulate transit routing, analyze network connectivity, and visualize station relationships.
 
